@@ -10,6 +10,9 @@
     "name": "Partiny",
     "email": "partiny@163.com"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "contributors": [
     {
       "name": "Partiny",

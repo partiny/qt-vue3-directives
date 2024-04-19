@@ -1,11 +1,14 @@
 {
   "name": "qt-vue3-directives",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "some common directives for vue3",
   "main": "index.js",
   "author": {
     "name": "Partiny",
     "email": "partiny@163.com"
+  },
+  "scripts": {
+    "version": "node ./updateVersion.js"
   },
   "engines": {
     "node": ">=20"
@@ -34,5 +37,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "provenance": true
+  },
+  "devDependencies": {
+    "pre-commit": "^1.2.2"
   }
 }

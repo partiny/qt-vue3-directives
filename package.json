@@ -6,12 +6,33 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "partiny",
+  "author": {
+    "name": "Partiny",
+    "email": "partiny@163.com"
+  },
+  "contributors": [
+    {
+      "name": "Partiny",
+      "email": "partiny@163.com"
+    }
+  ],
   "license": "ISC",
   "dependencies": {
     "perfect-scrollbar": "^1.5.5"
   },
   "keywords": [
     "vue3-directives"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/partiny/qt-vue3-directives.git"
+  },
+  "homepage": "https://github.com/partiny/qt-vue3-directives",
+  "bugs": {
+    "url": "https://github.com/partiny/qt-vue3-directives/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "provenance": true
+  }
 }

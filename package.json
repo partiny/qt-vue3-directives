@@ -3,7 +3,6 @@
   "version": "1.0.9",
   "description": "some common directives for vue3",
   "main": "index.js",
-  "scripts": {},
   "author": {
     "name": "Partiny",
     "email": "partiny@163.com"

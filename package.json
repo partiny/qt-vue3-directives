@@ -1,0 +1,17 @@
+{
+  "name": "qt-vue3-directives",
+  "version": "1.0.9",
+  "description": "some common directives for vue3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "partiny",
+  "license": "ISC",
+  "dependencies": {
+    "perfect-scrollbar": "^1.5.5"
+  },
+  "keywords": [
+    "vue3-directives"
+  ]
+}
